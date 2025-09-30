@@ -20,3 +20,9 @@ npm install
 ```
 npm run dev
 ```
+
+## Credits & License
+
+**Original Source:** [SeptiawanAjiP](https://github.com/SeptiawanAjiP)
+
+**Modified by:** [ilhamriadi](https://github.com/ilhamriadi)
